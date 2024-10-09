@@ -1,2 +1,2 @@
 "Este es un nuevo archivo en la primera rama" 
-"Cambios en la rama main " 
+Resuelto el conflicto
